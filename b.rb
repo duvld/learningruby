@@ -26,5 +26,5 @@ cust2 = Customer.new("tipeeshan", "dumbass", "420")
 
 #Use of instance methods
 
-cust1.display_details()
+cust1.display_details() #how to call methods
 cust2.display_details()
